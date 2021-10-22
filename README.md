@@ -1,5 +1,5 @@
 # NPS
-> Project built during NLW#4 - Net Promoter Score
+> Project built during NLW#6 - Valoriza
 
 <img src="/public/github/nlw-trilha-nodejs.png" alt="NLW#6"/>
 
